@@ -12,7 +12,7 @@ It will help the attendees get a slight idea about collaboration in GitHub.
 
 ### For staters you can use the edit button on right corner and add your name in this file.
 1. Batman
-2.
+2. Prateek 
 3.
 4.
 
