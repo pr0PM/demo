@@ -14,7 +14,7 @@ It will help the attendees get a slight idea about collaboration in GitHub.
 1. Batman
 2. Prateek 
 3. PRai 
-4.
+4. NancyNegi
 
 
 
