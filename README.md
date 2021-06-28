@@ -15,7 +15,7 @@ It will help the attendees get a slight idea about collaboration in GitHub.
 2. Prateek 
 3. PRai 
 4. NancyNegi
-
+5. Nilesh
 
 
 
@@ -35,6 +35,7 @@ It will help the attendees get a slight idea about collaboration in GitHub.
   <b><u>The most recent one which I've into my mind rn is : </u></b>
 
   ![242370d97815fceb0a4818320ed15c0b](https://user-images.githubusercontent.com/83975944/123389555-dc974a80-d54e-11eb-94f2-31790de98172.jpg)
-
+  ![quoteimg](https://i.pinimg.com/236x/5d/2e/d6/5d2ed6ad120535d658a8b4c194b526f1.jpg)
 
 </html>
+
