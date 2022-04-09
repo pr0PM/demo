@@ -14,7 +14,7 @@ It will help the attendees get a slight idea about collaboration in GitHub.
 
 1. Batman
 
-
+2. Heisenberg
 
 
 
@@ -33,3 +33,4 @@ Please make sure:
 
 > Be a force for Good
 
+> Say my name!
