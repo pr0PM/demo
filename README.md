@@ -16,6 +16,7 @@ It will help the attendees get a slight idea about collaboration in GitHub.
 
 2. Prateek 
 
+3. RahulJava-1
 
 ### You may also paste your favourite motivational quotes here under this section.
 (check using the preview button how the final output looks like)
@@ -32,3 +33,5 @@ Please make sure:
 > Be a force for Good
 
 > The demo is working out fine
+
+> Programming is not about what you know, It's about what you can figure out.
